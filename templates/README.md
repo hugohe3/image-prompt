@@ -8,7 +8,8 @@
 
 | 示例 | 类型 | 风格 | 标签 |
 |------|------|------|------|
-| [example_cat_portrait](./example_cat_portrait/) | photo | realistic | 宠物、猫咪、肖像 |
+| [example_cat_portrait](./example_cat_portrait.md) | photo | realistic | 宠物、猫咪、肖像 |
+| [novel_movie_3d_poster](./novel_movie_3d_poster.md) | 3D render | 梦工厂动画风格 | 影视剧、小说、3D海报、微缩模型 |
 
 ---
 
